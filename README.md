@@ -7,7 +7,6 @@
 ## 🚀 About Me
 
 - 🎓 B.E. Electronics & Communication Engineering @ MSRIT Bengaluru
-- 📊 CGPA: 8.11
 - 💻 Interested in RTL Design, Digital Design, Verification and VLSI
 - 🔬 Working on a 5-Stage Pipelined RISC-V Processor in Verilog
 - 🧪 Experience with MEMS Resonator Simulation using COMSOL
