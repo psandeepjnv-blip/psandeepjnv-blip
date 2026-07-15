@@ -1,16 +1,21 @@
-# Hi, I'm P. Sandeep
+<h1 align="center">Hi 👋, I'm P. Sandeep</h1>
 
-Electronics and Communication Engineering student at Ramaiah Institute of Technology (MSRIT), Bengaluru.
+<h3 align="center">ECE Student | RTL Design & VLSI Enthusiast | Verilog | RISC-V | Embedded Systems</h3>
 
-I am interested in RTL Design, Digital Design, VLSI, Verification, and Embedded Systems. Currently building hardware projects using Verilog HDL and exploring CMOS VLSI and MEMS simulation using COMSOL.
+---
 
-## Education
+## 🚀 About Me
 
-- B.E. Electronics and Communication Engineering
-- Ramaiah Institute of Technology
-- CGPA: 8.11
+- 🎓 B.E. Electronics & Communication Engineering @ MSRIT Bengaluru
+- 📊 CGPA: 8.11
+- 💻 Interested in RTL Design, Digital Design, Verification and VLSI
+- 🔬 Working on a 5-Stage Pipelined RISC-V Processor in Verilog
+- 🧪 Experience with MEMS Resonator Simulation using COMSOL
+- 🌱 Currently learning Advanced Verilog, Computer Architecture and Semiconductor Design
 
-## Technical Skills
+---
+
+## 🛠️ Technical Skills
 
 ### Hardware Design
 - Verilog HDL
@@ -20,8 +25,8 @@ I am interested in RTL Design, Digital Design, VLSI, Verification, and Embedded 
 
 ### VLSI
 - CMOS VLSI
-- Static Timing Basics
 - DFT Fundamentals
+- Digital IC Design
 
 ### Embedded Systems
 - Arduino
@@ -29,33 +34,38 @@ I am interested in RTL Design, Digital Design, VLSI, Verification, and Embedded 
 - LPC2148
 
 ### Tools
-- VS Code
 - Icarus Verilog
 - GTKWave
 - COMSOL Multiphysics
 - Git
 - GitHub
+- VS Code
 
-## Featured Projects
+---
 
-### RV32I 5-Stage Pipelined Processor
-Designed a 5-stage pipelined RISC-V processor with forwarding, hazard detection, stalling, and branch handling.
+## 📌 Featured Projects
 
-### MEMS Resonator for Pathogen Detection
-Designed and simulated MEMS resonator structures using COMSOL for high-sensitivity pathogen detection.
+### 🔹 RV32I 5-Stage Pipelined Processor
+Designed a pipelined RISC-V processor with forwarding, hazard detection, stalling, and branch handling.
 
-### Deaf Driver Alert System
-Embedded system for assisting hearing-impaired drivers using sensor-based alert mechanisms.
+### 🔹 MEMS Resonator for Pathogen Detection
+COMSOL-based simulation of MEMS resonators for high-sensitivity biological sensing.
 
-## Currently Learning
+### 🔹 Deaf Driver Alert System
+Embedded system project focused on assisting hearing-impaired drivers.
 
-- RTL Design
-- Verification Methodologies
-- Advanced Verilog
-- CMOS VLSI
-- Computer Architecture
+---
 
-## Contact
+## 🎯 Current Goals
 
-Email: p.sandeepjnv@gmail.com
+- Build RTL Design Portfolio
+- Learn Verification Methodologies
+- Explore ASIC Design Flow
+- Strengthen Digital Design Fundamentals
 
+---
+
+## 📫 Connect With Me
+
+- GitHub: https://github.com/psandeepjnv-blip
+- email : p.sandeepjnv@gmail.com
